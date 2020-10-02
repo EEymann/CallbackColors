@@ -3,7 +3,7 @@
 #### By _**Elizabeth Eymann**_
 
 ## Description
-#### _This project was created for a TeamTreehouse project for the Callback Functions in JavaScript Course [Treehouse](https://teamtreehouse.com/). It shows how to write a callback function that can accept more than one argument. In this simple program, functions allow us to change the colors of three different divs in the browser using javaScript functions. October 2020._
+#### _This program was created for a TeamTreehouse project for the Callback Functions in JavaScript Course [Treehouse](https://teamtreehouse.com/). This program shows how callback functions can accept two arguments. In this example, one argument is a div element, and the other is a function to change the color of that element. October 2020._
 
 ### Skills used:
 * _Callback functions in JavaScript_
